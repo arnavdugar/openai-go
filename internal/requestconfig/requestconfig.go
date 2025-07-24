@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openai/openai-go/internal"
-	"github.com/openai/openai-go/internal/apierror"
-	"github.com/openai/openai-go/internal/apiform"
-	"github.com/openai/openai-go/internal/apiquery"
+	"github.com/arnavdugar/openai-go/internal"
+	"github.com/arnavdugar/openai-go/internal/apierror"
+	"github.com/arnavdugar/openai-go/internal/apiform"
+	"github.com/arnavdugar/openai-go/internal/apiquery"
 	"github.com/tidwall/gjson"
 )
 

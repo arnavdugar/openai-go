@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/openai/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

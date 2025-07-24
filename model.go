@@ -8,12 +8,12 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/openai/openai-go/internal/apijson"
-	"github.com/openai/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/packages/pagination"
-	"github.com/openai/openai-go/packages/respjson"
-	"github.com/openai/openai-go/shared/constant"
+	"github.com/arnavdugar/openai-go/internal/apijson"
+	"github.com/arnavdugar/openai-go/internal/requestconfig"
+	"github.com/arnavdugar/openai-go/option"
+	"github.com/arnavdugar/openai-go/packages/pagination"
+	"github.com/arnavdugar/openai-go/packages/respjson"
+	"github.com/arnavdugar/openai-go/shared/constant"
 )
 
 // ModelService contains methods and other services that help with interacting with

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ebitengine/oto/v3"
-	"github.com/openai/openai-go"
+	"github.com/arnavdugar/openai-go"
 )
 
 func main() {

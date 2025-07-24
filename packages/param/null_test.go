@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/openai/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/packages/param"
 	"testing"
 )
 

@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/openai/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/responses"
-	"github.com/openai/openai-go/webhooks"
+	"github.com/arnavdugar/openai-go/internal/requestconfig"
+	"github.com/arnavdugar/openai-go/option"
+	"github.com/arnavdugar/openai-go/responses"
+	"github.com/arnavdugar/openai-go/webhooks"
 )
 
 // Client creates a struct with services and top level methods that help with

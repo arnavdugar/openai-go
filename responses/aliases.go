@@ -3,9 +3,9 @@
 package responses
 
 import (
-	"github.com/openai/openai-go/internal/apierror"
-	"github.com/openai/openai-go/packages/param"
-	"github.com/openai/openai-go/shared"
+	"github.com/arnavdugar/openai-go/internal/apierror"
+	"github.com/arnavdugar/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding

@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/openai/openai-go/internal/encoding/json"
+	shimjson "github.com/arnavdugar/openai-go/internal/encoding/json"
 	"time"
 )
 

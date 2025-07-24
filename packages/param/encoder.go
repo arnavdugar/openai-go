@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	shimjson "github.com/openai/openai-go/internal/encoding/json"
+	shimjson "github.com/arnavdugar/openai-go/internal/encoding/json"
 
 	"github.com/tidwall/sjson"
 )

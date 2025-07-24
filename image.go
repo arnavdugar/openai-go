@@ -10,14 +10,14 @@ import (
 	"mime/multipart"
 	"net/http"
 
-	"github.com/openai/openai-go/internal/apiform"
-	"github.com/openai/openai-go/internal/apijson"
-	"github.com/openai/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/packages/param"
-	"github.com/openai/openai-go/packages/respjson"
-	"github.com/openai/openai-go/packages/ssestream"
-	"github.com/openai/openai-go/shared/constant"
+	"github.com/arnavdugar/openai-go/internal/apiform"
+	"github.com/arnavdugar/openai-go/internal/apijson"
+	"github.com/arnavdugar/openai-go/internal/requestconfig"
+	"github.com/arnavdugar/openai-go/option"
+	"github.com/arnavdugar/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/packages/respjson"
+	"github.com/arnavdugar/openai-go/packages/ssestream"
+	"github.com/arnavdugar/openai-go/shared/constant"
 )
 
 // ImageService contains methods and other services that help with interacting with

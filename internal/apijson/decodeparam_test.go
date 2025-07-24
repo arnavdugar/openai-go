@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/openai/openai-go/internal/apijson"
-	"github.com/openai/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/internal/apijson"
+	"github.com/arnavdugar/openai-go/packages/param"
 	"reflect"
 	"testing"
 )

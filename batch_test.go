@@ -8,10 +8,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/internal/testutil"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/shared"
+	"github.com/arnavdugar/openai-go"
+	"github.com/arnavdugar/openai-go/internal/testutil"
+	"github.com/arnavdugar/openai-go/option"
+	"github.com/arnavdugar/openai-go/shared"
 )
 
 func TestBatchNewWithOptionalParams(t *testing.T) {

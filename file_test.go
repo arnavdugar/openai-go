@@ -12,9 +12,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/internal/testutil"
-	"github.com/openai/openai-go/option"
+	"github.com/arnavdugar/openai-go"
+	"github.com/arnavdugar/openai-go/internal/testutil"
+	"github.com/arnavdugar/openai-go/option"
 )
 
 func TestFileNew(t *testing.T) {

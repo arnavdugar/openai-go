@@ -1,7 +1,7 @@
 package apiform
 
 import (
-	"github.com/openai/openai-go/packages/param"
+	"github.com/arnavdugar/openai-go/packages/param"
 	"mime/multipart"
 	"reflect"
 )

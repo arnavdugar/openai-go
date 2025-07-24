@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/option"
+	"github.com/arnavdugar/openai-go"
+	"github.com/arnavdugar/openai-go/option"
 )
 
 // Standardized test constants (matches TypeScript implementation)

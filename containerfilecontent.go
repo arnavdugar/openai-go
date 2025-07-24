@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/openai/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
+	"github.com/arnavdugar/openai-go/internal/requestconfig"
+	"github.com/arnavdugar/openai-go/option"
 )
 
 // ContainerFileContentService contains methods and other services that help with
